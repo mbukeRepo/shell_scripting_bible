@@ -1,8 +1,5 @@
 <img
 src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/PNG/512x512.png"
-alt=""
+alt="">
 
->
-
-<h2>shell scripting Bible</h2>
-<hr>
+<h2 style="text-align: center">shell scripting Bible</h2>
